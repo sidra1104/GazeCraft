@@ -1,4 +1,4 @@
-# EyeDraw
+# GazeCraft
 Small computer vision software that allows you to **draw with your eyes**.
 
 <div align="center">
@@ -19,7 +19,7 @@ Small computer vision software that allows you to **draw with your eyes**.
 * [References](#references)
 
 ## Basic Overview
-This project aims to investigate the potential of computer vision in *eye detection* for the development of a *real-time* application with the use of a simple webcam. **OpenCV** is used for both the GUI and the algorithmic part. I also made a more detailed guide<sup>[[1]](#eyedraw_ref)</sup>.
+This project aims to investigate the potential of computer vision in *eye detection* for the development of a *real-time* application with the use of a simple webcam. **OpenCV** is used for both the GUI and the algorithmic part. I also made a more detailed guide<sup>[[1]](#GazeCraft_ref)</sup>.
 
 The execution consists of 3 phases:
 
@@ -91,8 +91,8 @@ To run the project, clone it with [Git] and run the `main.py` file:
 [Git]: https://git-scm.com/downloads	"Git download page"
 
 ```
-$ git clone https://github.com/fabridigua/EyeDraw
-$ cd EyeDraw
+$ git clone https://github.com/fabridigua/GazeCraft
+$ cd GazeCraft
 $ python main.py
 ```
 
@@ -155,9 +155,9 @@ $ python main.py
 
 ## References
 
-<a name="eyedraw_ref">[1]</a>:  [EyeDraw — How to draw with your eyes using Computer Vision]
+<a name="GazeCraft_ref">[1]</a>:  [GazeCraft — How to draw with your eyes using Computer Vision]
 
-[EyeDraw — How to draw with your eyes using Computer Vision]: https://fabridigua.medium.com/eyedraw-how-to-draw-with-your-eyes-using-computer-vision-226317501e6a	"EyeDraw — How to draw with your eyes using Computer Vision"
+[GazeCraft — How to draw with your eyes using Computer Vision]: https://fabridigua.medium.com/GazeCraft-how-to-draw-with-your-eyes-using-computer-vision-226317501e6a	"GazeCraft — How to draw with your eyes using Computer Vision"
 
 <a name="haar_ref">[2]</a>: WILSON, Phillip Ian; FERNANDEZ, John. Facial feature detection using Haar classifiers. *Journal of Computing Sciences in Colleges*, 2006, 21.4: 127-133.
 
